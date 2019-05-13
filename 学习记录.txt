@@ -1,0 +1,8 @@
+scrapy.cfg: 项目的配置文件
+Demo3/: 该项目的python模块。之后您将在此加入代码。
+Demo3/items.py: 项目中的item文件.相当于spring 中的model文件
+Demo3/pipelines.py: 项目中的pipelines文件.用于处理数据的存储
+Demo3/settings.py: 项目的设置文件.
+Demo3/spiders/: 放置spider代码的目录. 放置爬虫类的位置
+
+
